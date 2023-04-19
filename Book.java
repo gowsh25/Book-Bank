@@ -1,5 +1,3 @@
-package Bookbank;
-
 class Book {
     private String book_name;
     private int book_id;
